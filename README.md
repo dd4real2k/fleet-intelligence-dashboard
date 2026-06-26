@@ -1,0 +1,1 @@
+Small logistics companies often lack visibility into operational performance. This project demonstrates how Python, SQL, Excel, and Power BI can be used to analyse delivery operations, identify cost-saving opportunities, monitor KPIs, and support data-driven decision-making.
